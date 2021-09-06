@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Paeng 
+
+
 <!--
 **GeonWooPaeng/GeonWooPaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonWooPaeng&show_icons=true&theme=radical)
 
+
+#### 42Seoul
  [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/gpaeng)](https://github.com/JaeSeoKim/badge42)
