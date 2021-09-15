@@ -2,11 +2,11 @@
 
 <h2> I'm Paeng </h2> 
 
-<br/>
 <p align="center">
   <a href="https://gwpaeng.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://gwpaeng.tistory.com/"/></a>&nbsp
   <a href="mailto:gwpaeng@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gwpaeng@naver.com"/></a>
 </p>
+
 <!--
 **GeonWooPaeng/GeonWooPaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
     <h3> GitHub </h3>
     <img src="https://github-readme-stats.vercel.app/api?username=GeonWooPaeng&show_icons=true&theme=radical&count_private=true"/></a>
