@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h2> I'm Paeng </h2> 
+
+# Geon Woo Paeng <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <p align="center">
   <a href="https://gwpaeng.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://gwpaeng.tistory.com/"/></a>&nbsp
