@@ -2,15 +2,16 @@
 
 ### Geon Woo Paeng <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-<p align="center">
-  <a href="https://gwpaeng.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://gwpaeng.tistory.com/"/></a>&nbsp
-  <a href="mailto:gwpaeng@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gwpaeng@naver.com"/></a>
-</p>
+
 
 
   *I can do everything through him who gives me strength*
    *Philippians 4 : 13*  
 
+<p align="center">
+  <a href="https://gwpaeng.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://gwpaeng.tistory.com/"/></a>&nbsp
+  <a href="mailto:gwpaeng@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gwpaeng@naver.com"/></a>
+</p>
 <!-- <p align="center">
   <div align-content="start">
     <h3> GitHub </h3>
