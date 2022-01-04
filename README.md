@@ -7,25 +7,18 @@
   <a href="mailto:gwpaeng@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gwpaeng@naver.com"/></a>
 </p>
 
-<!--
-**GeonWooPaeng/GeonWooPaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  *I can do everything through him who gives me strength*
+   *Philippians 4 : 13*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
+<!-- <p align="center">
+  <div align-content="start">
     <h3> GitHub </h3>
     <img src="https://github-readme-stats.vercel.app/api?username=GeonWooPaeng&show_icons=true&theme=radical&count_private=true"/></a>
-    <br/>
+  </div>
+  <div align-content="end">
     <h3> 42SEOUL </h3>
     <img src="https://badge42.herokuapp.com/api/stats/gpaeng"/></a>
+  </div>
 </p>
+ -->
