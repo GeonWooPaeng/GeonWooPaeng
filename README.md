@@ -5,9 +5,9 @@
 
 
 
-  *I can do everything through him who gives me strength*
-   *Philippians 4 : 13*  
+  *I can do everything through him who gives me strength Philippians 4 : 13*  
 
+<br/>
 <p align="center">
   <a href="https://gwpaeng.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://gwpaeng.tistory.com/"/></a>&nbsp
   <a href="mailto:gwpaeng@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gwpaeng@naver.com"/></a>
