@@ -3,7 +3,7 @@
 ### Geon Woo Paeng <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-
+<br/>
 
   *I can do everything through him who gives me strength*
   <br/>
