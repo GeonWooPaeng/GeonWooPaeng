@@ -11,7 +11,9 @@
 <br/>
 <p align="center">
   <a href="https://gwpaeng.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://gwpaeng.tistory.com/"/></a>&nbsp
-  <a href="mailto:gwpaeng@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gwpaeng@naver.com"/></a>
+  <a href="mailto:geonwoopaeng@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gwpaeng@naver.com"/></a>&nbsp
+  <a href="https://quiet-open-6a9.notion.site/93e88c5da6d947ec8d50571b21c6e665"><img src="https://img.shields.io/badge/-Resume-purple"/></a> 
+
 </p>
 <!-- <p align="center">
   <div align-content="start">
