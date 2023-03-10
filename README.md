@@ -1,6 +1,6 @@
 
 
-### Geon Woo Paeng <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+### Geon Woo Paeng (First Penguin) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
 
 <br/>
 
